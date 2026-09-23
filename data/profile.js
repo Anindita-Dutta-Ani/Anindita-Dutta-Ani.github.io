@@ -6,11 +6,10 @@ const PROFILE = {
   department: "Department of Computer Science and Engineering",
   institution: "BRAC University",
   location: "Dhaka, Bangladesh",
-  photo: "img/Angkon_Dutta_Joy.png",
+  photo: "img/Anindita Dutta.png",
 
-  bio: `I am a Computer Science graduate from <a href="https://www.bracu.ac.bd/" target="_blank" rel="noopener">BRAC University</a> with a strong interest in <strong>Artificial Intelligence and Machine Learning</strong>. My undergraduate research focused on <strong>Diffusion Models with Graph Attention for Spatiotemporal EEG Inpainting</strong>, exploring the use of DDPM, GAT, and SVD for multichannel EEG reconstruction.<br><br>
-My broader interests span <strong>AI/ML, computer vision, biomedical computing, signal processing, human-computer interaction, and intelligent systems</strong>. I have also worked on vision-based fall detection, robotics, and AI-focused projects, while contributing to research and technical communities through the BRAC University Computer Club. I am currently working as a <strong>Research Assistant</strong> at BRAC University under the supervision of <strong>Md. Golam Rabiul Alam, PhD</strong>, and am seeking opportunities to pursue deeper graduate-level research.`,
-
+  bio: `I am a Computer Science and Engineering graduate from <a href="https://www.bracu.ac.bd/" target="_blank" rel="noopener">BRAC University</a> with a strong interest in <strong>Data Science, Machine Learning, and Artificial Intelligence</strong>. My undergraduate thesis, <strong>Diffusion Models with Graph Attention for Spatiotemporal EEG Inpainting</strong>, explored the reconstruction of missing multichannel EEG segments through a hybrid deep-learning approach combining <strong>Denoising Diffusion Probabilistic Models (DDPM), Graph Attention Networks (GAT), and Singular Value Decomposition (SVD)</strong>.<br><br>
+My broader interests include <strong>data analysis, data visualization, deep learning, diffusion models, graph neural networks, computer vision, statistical reporting, and biomedical signal processing</strong>. I have also worked on vision-based fall detection and customer churn prediction, applying machine learning, feature engineering, and analytical techniques to real-world problems. In addition to research, I have experience with <strong>Python, SQL, Excel, Tableau, Looker Studio, OpenCV, and GitHub</strong>, along with practical experience in business and data-driven analysis. My fall-detection research was published as a peer-reviewed paper at <strong>ICCIT 2025</strong>, while my undergraduate thesis received the <strong>Best Thesis Award from BRAC University in 2026</strong>. I am now seeking opportunities to pursue graduate studies in <strong>Data Science</strong> and further strengthen my expertise in data-driven research and intelligent systems.`,
   researchInterests: [
   "Artificial Intelligence & Machine Learning",
   "Data Science & Analytics",
