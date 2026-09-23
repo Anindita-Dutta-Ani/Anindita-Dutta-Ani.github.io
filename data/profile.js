@@ -52,5 +52,5 @@ My broader interests include <strong>data analysis, data visualization, deep lea
     cv: "cv/main.pdf",
   },
 
-  hobbies: ["Playing flute and tabla, watching anime, traveling, outdoor activities"],
+  hobbies: ["Dancing", "Singing", "Watching Documentaries", "Photography", "Reading"],
 };
