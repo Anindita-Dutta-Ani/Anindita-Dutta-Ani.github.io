@@ -2,7 +2,7 @@ const PROFILE = {
   lastUpdated: "August 27, 2026",
   name: "Anindita Dutta",
   preferredName: "Anindita",
-  title: "Computer Science Graduate & Aspiring AI/ML Researcher",
+  title: "Computer Science Graduate & Aspiring Data Science Researcher",
   department: "Department of Computer Science and Engineering",
   institution: "BRAC University",
   location: "Dhaka, Bangladesh",
