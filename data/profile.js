@@ -1,7 +1,7 @@
 const PROFILE = {
   lastUpdated: "August 27, 2026",
-  name: "Angkon Dutta Joy",
-  preferredName: "Angkon",
+  name: "Anindita Dutta",
+  preferredName: "Anindita",
   title: "Computer Science Graduate & Aspiring AI/ML Researcher",
   department: "Department of Computer Science and Engineering",
   institution: "BRAC University",
