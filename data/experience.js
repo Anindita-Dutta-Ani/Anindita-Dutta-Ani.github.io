@@ -74,7 +74,23 @@ const TEACHING = [
 ];
 
 const SERVICES = [
-  "<strong>AI Trainer</strong> — International Artificial Intelligence Olympiad (IAIO) 2026 Grooming Camp at BRAC University; trained the Bangladesh Artificial Intelligence Olympiad (BdAIO) team and conducted a session on Diffusion Models and AI.",
-  "<strong>Professional Training in Data Science</strong> — Hands-on training covering EDA, Feature Engineering, Machine Learning, Time Series Forecasting, Model Deployment, and MLOps, organized by the Bangladesh Government, ADB, BRAC University, and SICIP.",
-  "<strong>Research & Development Leadership</strong> — Founded and led the A.M. Turing Research Incubation Wing of BRAC University Computer Club, the university’s first student-led research initiative, focused on fostering collaboration and learning among young researchers through research activities, events, and technical sessions.",
+ {
+    title: "TaskPop — Cloud Task Manager",
+    text: `Developed a cloud-based task management platform (<strong>MERN Stack</strong>) for workflow tracking, team coordination, and deadline management, with role-based access to support different user permissions.`,
+  },
+  {
+    title: "Customer Churn Prediction System",
+    text: `Built a <strong>machine learning</strong> model to identify customers at risk of churn; performed data preprocessing, feature engineering, and trend analysis to support customer retention strategies.`,
+  },
+  {
+    title: "Electronic Voting System — Assembly Project",
+    text: `Designed and implemented an electronic voting system in <strong>Assembly language</strong> as part of coursework on computer organization and low-level systems programming.`,
+  },
+
+  {
+  title: "BUCC App — Android",
+  text: `Contributed as one of <strong>6 contributors</strong> to the official <strong>BRAC University Computer Club (BUCC)</strong> Android mobile application, an open-source app (<strong>Kotlin, Gradle</strong>) built to serve club members with event updates, resources, and club-related information. Collaborated with a team on an actively maintained codebase with 160+ commits.`,
+  url: "https://github.com/buccbracu/buccapp-android",
+  },
+
 ];
