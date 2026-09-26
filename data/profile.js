@@ -43,7 +43,7 @@ My broader interests include <strong>data analysis, data visualization, deep lea
 
   links: {
     email: "aninditadutta2022@gmail.com",
-    emailPersonal: "anikayaani7777775@gmail.com",
+    emailPersonal: "anikayani7777775@gmail.com",
     emailBRACU: "anindita.dutta@g.bracu.ac.bd",
     googleScholar: "",
     github: "https://github.com/Anindita-Dutta-Ani",
