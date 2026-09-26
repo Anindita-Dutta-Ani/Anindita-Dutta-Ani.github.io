@@ -22,11 +22,7 @@ const NEWS = [
     text: "Started an internship in <strong>Business Development</strong> at <strong>BRAC-Aarong</strong>.",
   },
   
-  {
-    date: "2025.12",
-    type: "pub",
-    text: `Research paper <em>"Temporal Fusion of Convolutional and LSTM Networks for Vision-Based Fall Detection Using Anatomical Keypoints"</em> published at <strong>ICCIT 2025</strong>.`,
-  },
+  
 
   {
     date: "2025.12",
