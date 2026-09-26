@@ -74,23 +74,8 @@ const TEACHING = [
 ];
 
 const SERVICES = [
- {
-    title: "TaskPop — Cloud Task Manager",
-    text: `Developed a cloud-based task management platform (<strong>MERN Stack</strong>) for workflow tracking, team coordination, and deadline management, with role-based access to support different user permissions.`,
-  },
-  {
-    title: "Customer Churn Prediction System",
-    text: `Built a <strong>machine learning</strong> model to identify customers at risk of churn; performed data preprocessing, feature engineering, and trend analysis to support customer retention strategies.`,
-  },
-  {
-    title: "Electronic Voting System — Assembly Project",
-    text: `Designed and implemented an electronic voting system in <strong>Assembly language</strong> as part of coursework on computer organization and low-level systems programming.`,
-  },
-
-  {
-  title: "BUCC App — Android",
-  text: `Contributed as one of <strong>6 contributors</strong> to the official <strong>BRAC University Computer Club (BUCC)</strong> Android mobile application, an open-source app (<strong>Kotlin, Gradle</strong>) built to serve club members with event updates, resources, and club-related information. Collaborated with a team on an actively maintained codebase with 160+ commits.`,
-  url: "https://github.com/buccbracu/buccapp-android",
-  },
-
+  "<strong>TaskPop — Cloud Task Manager</strong> — Developed a cloud-based task management platform (MERN Stack) for workflow tracking, team coordination, and deadline management, with role-based access to support different user permissions.",
+  "<strong>Customer Churn Prediction System</strong> — Built a machine learning model to identify customers at risk of churn; performed data preprocessing, feature engineering, and trend analysis to support customer retention strategies.",
+  "<strong>Electronic Voting System — Assembly Project</strong> — Designed and implemented an electronic voting system in Assembly language as part of coursework on computer organization and low-level systems programming.",
+  "<strong>BUCC App — Android</strong> — Contributed as one of 6 contributors to the official BRAC University Computer Club (BUCC) Android mobile application, an open-source app (Kotlin, Gradle) built to serve club members with event updates, resources, and club-related information. Collaborated with a team on an actively maintained codebase with 160+ commits. <a href=\"https://github.com/buccbracu/buccapp-android\" target=\"_blank\" rel=\"noopener\">View repository →</a>",
 ];
