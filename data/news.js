@@ -1,6 +1,12 @@
 // Timeline / News items. Most recent first.
 // type: "pub" | "personal" | "career" | (omit for general news)
 const NEWS = [
+
+   {
+    date: "2026.09",
+    type: "career",
+    text: `Currently working as a <strong>Data Analyst at Bongo Rithm Healthcare Limited</strong>, a Chicago-based <strong>early-stage startup</strong>, contributing to an <strong>AI-enabled Electronic Medical Record (EMR) platform</strong> through healthcare data collection, entry, validation, and machine learning applications.`,
+  },
   {
     date: "2026.06",
     type: "career",
@@ -22,7 +28,7 @@ const NEWS = [
     text: "Started an internship in <strong>Business Development</strong> at <strong>BRAC-Aarong</strong>.",
   },
   
-  
+
 
   {
     date: "2025.12",
