@@ -42,12 +42,12 @@ My broader interests include <strong>data analysis, data visualization, deep lea
   ],
 
   links: {
-    email: "angkondutta@gmail.com",
-    emailPersonal: "angkondutta@gmail.com",
-    emailBRACU: "angkon.dutta.joy@g.bracu.ac.bd",
+    email: "aninditadutta2022@gmail.com",
+    emailPersonal: "anikayaani7777775@gmail.com",
+    emailBRACU: "anindita.dutta@g.bracu.ac.bd",
     googleScholar: "",
-    github: "https://github.com/Angkon-Dutta-Joy",
-    linkedin: "https://www.linkedin.com/in/angkon-dutta-joy",
+    github: "https://github.com/Anindita-Dutta-Ani",
+    linkedin: "https://www.linkedin.com/in/anindita-dutta-ani/",
     bracProfile: "",
     cv: "cv/main.pdf",
   },
