@@ -5,7 +5,7 @@ const NEWS = [
    {
     date: "2026.09",
     type: "career",
-    text: `Currently working as a <strong>Data Analyst at Bongo Rithm Healthcare Limited</strong>, a Chicago-based <strong>early-stage startup</strong>, contributing to an <strong>AI-enabled Electronic Medical Record (EMR) platform</strong> through healthcare data collection, entry, validation, and machine learning applications.`,
+    text: `Currently working as a <strong>Data Analyst at Bongorithm Healthcare Limited</strong>, a Chicago-based <strong>early-stage startup</strong>, contributing to an <strong>AI-enabled Electronic Medical Record (EMR) platform</strong> through healthcare data collection, entry, validation, and machine learning applications.`,
   },
   {
     date: "2026.06",
