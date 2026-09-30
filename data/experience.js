@@ -1,7 +1,7 @@
 const EXPERIENCE = [
   {
   role: "Data Analyst",
-  org: "Bongo Rithm Healthcare Limited",
+  org: "Bongoithm Healthcare Limited",
   orgUrl: "",
   period: "2026 – Present",
   description: "Work with healthcare data for an AI-enabled Electronic Medical Record (EMR) platform at a Chicago-based early-stage startup. Handle data collection, entry, validation, and data quality management, while applying machine learning techniques to analyze and improve data and support the ongoing development of the platform.",
