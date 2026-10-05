@@ -67,6 +67,7 @@ const AWARDS = [
 ];
 
 const TEACHING = [
+ 
   {
     code: "",
     title: "Research & Thesis Guidance",
