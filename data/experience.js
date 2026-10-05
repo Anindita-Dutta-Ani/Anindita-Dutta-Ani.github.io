@@ -75,8 +75,8 @@ const TEACHING = [
   },
   {
     code: "",
-    title: "Robotics",
-    role: "Instructor, Octobrain: taught robotics to 60+ students aged 7 to 15 through hands-on lessons, simplifying technical concepts to improve learning and engagement",
+    title: "Robotics & AI",
+    role: "Instructor, Octobrain: taught robotics and AIs to 60+ students aged 7 to 15 through hands-on lessons, simplifying technical concepts to improve learning and engagement",
   },
 ];
 
