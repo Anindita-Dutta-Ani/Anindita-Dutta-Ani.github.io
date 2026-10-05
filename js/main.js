@@ -263,12 +263,26 @@ function renderEducation() {
 function renderTeaching() {
   const el = document.getElementById("teaching-list");
   el.innerHTML = `<md-list class="teaching-list">` +
-    TEACHING.map(t => `
+    TEACHING.map(t => {
+      const subtitle = [t.code, t.role].filter(Boolean).map(esc).join(" &middot; ");
+      const topics = (t.topics || []).length
+        ? `<ul class="teaching-topics">${t.topics.map(x => `<li>${esc(x)}</li>`).join("")}</ul>`
+        : "";
+      const audience = t.audience
+        ? `<div class="teaching-audience"><strong>Audience:</strong> ${esc(t.audience)}</div>`
+        : "";
+      return `
       <md-list-item>
         <md-icon slot="start">cast_for_education</md-icon>
         <div slot="headline">${esc(t.title)}</div>
-        <div slot="supporting-text">${esc(t.code)}${t.role ? ` &middot; ${esc(t.role)}` : ""}</div>
-      </md-list-item>`).join("") +
+        <div slot="supporting-text" class="teaching-body">
+          <div class="teaching-role">${subtitle}</div>
+          ${t.description ? `<p class="teaching-desc">${esc(t.description)}</p>` : ""}
+          ${topics}
+          ${audience}
+        </div>
+      </md-list-item>`;
+    }).join("") +
     `</md-list>`;
 }
 
