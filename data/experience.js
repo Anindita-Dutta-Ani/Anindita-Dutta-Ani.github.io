@@ -67,33 +67,16 @@ const AWARDS = [
 ];
 
 const TEACHING = [
- 
+
   {
     code: "",
     title: "Research & Thesis Guidance",
-    role: "Session Facilitator, BRAC University Computer Club",
-    description:
-      "Shared my experience as an undergraduate student on starting research and planning a thesis, based on my own journey from choosing a topic to winning the Best Thesis Award and publishing at IEEE ICCIT 2025.",
-    topics: [
-      "Choosing a research topic and problem statement",
-      "Literature review and dataset selection",
-      "Experiment design and evaluation metrics",
-      "Writing and submitting papers",
-    ],
-    audience: "Undergraduate students",
+    role: "Session Facilitator, BRAC University Computer Club: shared my undergraduate research journey with fellow students, covering topic selection, thesis planning, and paper publication",
   },
   {
     code: "",
     title: "Robotics",
-    role: "Instructor, Octobrain",
-    description:
-      "Taught introductory robotics to 60+ students aged 7 to 15 through hands-on, project-based lessons.",
-    topics: [
-      "[Sensors and actuators]",
-      "[Microcontroller programming]",
-      "[Building and testing a simple robot]",
-    ],
-    audience: "60+ students, ages 7 to 15",
+    role: "Instructor, Octobrain: taught robotics to 60+ students aged 7 to 15 through hands-on lessons, simplifying technical concepts to improve learning and engagement",
   },
 ];
 
